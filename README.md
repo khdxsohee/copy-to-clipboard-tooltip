@@ -74,4 +74,9 @@ copy-to-clipboard-tooltip/
 This project is licensed under the MIT License - feel free to use it in personal or commercial projects.
 
 ---
+
+## Author Information
+
+  * **Created by:** khdxsohee
   ### ✨ If you found this helpful, don’t forget to give it a ⭐ on GitHub!
+  
